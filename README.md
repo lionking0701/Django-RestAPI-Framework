@@ -10,9 +10,6 @@ REST APIs are here to connect your web application to anything and everything. B
 This course will teach you exactly how to build one with Django, Python, Django Rest Framework, and more.
 
 
-Full Course is here: [http://joincfe.com/courses/rest-api](https://www.codingforentrepreneurs.com/courses/rest-api/)
-
-
 ### Section 1 | API Basics
 
 *Conceptual section, no related code*
